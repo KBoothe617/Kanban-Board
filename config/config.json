@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "KBoothe617",
+    "password": "your_password",
+    "database": "your_database",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "KBoothe617",
+    "password": "your_password",
+    "database": "your_database_test",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "KBoothe617",
+    "password": "your_password",
+    "database": "your_database",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
